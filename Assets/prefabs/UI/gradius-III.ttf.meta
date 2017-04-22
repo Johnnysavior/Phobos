@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b8a50a7aedd320a4abfbb39115b55c12
+timeCreated: 1487534593
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 27
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gradius III
+  fontNames:
+  - Gradius III
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
